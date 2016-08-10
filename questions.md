@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Questions to answer
-permalink: /question/
+title: Questions to be answer
+permalink: /questions/
 ---
 
 # Question to be answered
