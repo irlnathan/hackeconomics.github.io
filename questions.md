@@ -6,6 +6,8 @@ permalink: /questions/
 
 ## Money
 
+- What are the issues with barter?
+- Is there more than one type of money?
 - What is a medium of exchange?
 - How is the medium of exchange created?
 
