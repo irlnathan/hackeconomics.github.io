@@ -7,6 +7,7 @@ First, when I talk about currency I'm talking about the stuff we carry around in
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6w1V&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
 Four of these measures are almost identical:
+
 - Currency in Circulation (WCURCIR) [Weekly]
 - Currency in Circulation (CURRCIR) [Monthly]
 - Monetary Base; Currency in Circulation (MBCURRCIR) [Monthly]
