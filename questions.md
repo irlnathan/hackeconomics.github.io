@@ -5,8 +5,8 @@ permalink: /questions/
 ---
 
 ## Banks
-- What are the limits on bank loans?
-- What are reserve requirements?
+- What limits a bank to make a loan?
+- What are bank reserve requirements?
  
 ## The Federal Reserve
 - Is the federal reserve a public or private institution?
@@ -16,11 +16,11 @@ permalink: /questions/
 - How does the federal reserve affect interest rates?
 
 ## Money
-
 - What are the issues with barter?
 - Is there more than one type of money?
 - What is a medium of exchange?
 - How is the medium of exchange created?
+- Who regulates the medium of exchange?
 
 ## The Treasury
 - What is the difference between publicly held debt and intergovernmental holdings?
