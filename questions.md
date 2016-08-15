@@ -21,6 +21,7 @@ permalink: /questions/
 - What is a medium of exchange?
 - How is the medium of exchange created?
 - Who regulates the medium of exchange?
+- [How much U.S. currency is currently in circulation?](http://hackeconomics.com/How-much-U.S.-currency-is-currently-in-circulation/)
 
 ## The Treasury
 - What is the difference between publicly held debt and intergovernmental holdings?
