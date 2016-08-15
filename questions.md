@@ -22,7 +22,7 @@ permalink: /questions/
 - What is a medium of exchange?
 - How is the medium of exchange created?
 - Who regulates the medium of exchange?
-- [What are the total amount of savings deposits in the US?](https://fred.stlouisfed.org/series/WSAVNS#0)
+- [What are the total amount of savings deposits in the US?](http://hackeconomics.com/what-are-the-total-amount-of-savings-deposits-in-the-US/)
 - [What is the M1 money supply and its components?](http://hackeconomics.com/What-is-M1-and-its-components/)
   - [How much U.S. currency is currently in circulation?](http://hackeconomics.com/How-much-U.S.-currency-is-currently-in-circulation/)
   - [What is a demand deposit?](http://hackeconomics.com/What-is-a-demand-deposit/)
