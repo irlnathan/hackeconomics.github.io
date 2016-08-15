@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the M1 Money Supply? 
+title: What is the M1 Money Supply and its components? 
 ---
 
 Over the last few posts I've looked at various forms of money: currency, demand deposits, other checkable deposits. If you add them all up they total one measure of the total supply of money known as M1.
