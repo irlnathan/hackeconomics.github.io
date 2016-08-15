@@ -23,6 +23,8 @@ permalink: /questions/
 - Who regulates the medium of exchange?
 - [What is the M1 money supply and its components?](http://hackeconomics.com/What-is-M1-and-its-components/)
   - [How much U.S. currency is currently in circulation?](http://hackeconomics.com/How-much-U.S.-currency-is-currently-in-circulation/)
+  - [What is a demand deposit?](http://hackeconomics.com/What-is-a-demand-deposit/)
+  - [What are other checkable deposits?](http://hackeconomics.com/What-are-other-checkable-deposits/)
 
 ## The Treasury
 - What is the difference between publicly held debt and intergovernmental holdings?
