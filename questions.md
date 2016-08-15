@@ -16,6 +16,7 @@ permalink: /questions/
 - How does the federal reserve affect interest rates?
 
 ## Money
+- What entity is in charge of printing US currency?
 - What are the issues with barter?
 - Is there more than one type of money?
 - What is a medium of exchange?
