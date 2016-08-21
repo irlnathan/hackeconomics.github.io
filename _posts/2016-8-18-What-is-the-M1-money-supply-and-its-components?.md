@@ -3,6 +3,8 @@ layout: post
 title: What is the M2 money supply and its components? 
 ---
 
+> blah blah blah
+
 **_v1.1_**
 
 Prerequisites: [savings deposits](http://hackeconomics.com/what-are-the-total-amount-of-savings-deposits-in-the-US/), [small time deposits](http://hackeconomics.com/What-are-the-total-amount-of-small-time-deposits-in-the-US/), and [retail money funds](http://hackeconomics.com/What-are-the-total-amount-of-retail-money-funds-in-the-US/)
