@@ -3,6 +3,8 @@ layout: post
 title: What are other checkable deposits? 
 ---
 
+**_v1.0_**
+
 Other checkable deposits counts deposit accounts at banks that are either Negotiable Order of Withdrawal (NOW) accounts or part of a Automatic Transfer Service (ATS) with a bank. 
 
 A NOW account is a deposit account that allows limited checking and pays interest to the depositor. NOW accounts were introduced to get around the historic ban on paying interest to [demand deposits](http://hackeconomics.com/What-is-a-demand-deposit/) since the great depression. In 2011 the prohibition was lifted demand deposit holders to be paid in interest by banks. 
