@@ -5,7 +5,7 @@ title: Welcome to hackeconomics!
 
 **_v1.1_**
 
-Welcome, let's have some fun exploring economics one question at a time. This post will be an ever evolving update of the [about](http://hackeconomics.com/about/) page for the blog. 
+Welcome, let's have some fun exploring economics one question at a time. This post will be an ever evolving update of the [about](http://hackeconomics.com/about/) page for the site. 
 
 **Organization**
 The site is organized into three sections: blog, questions, and about. The blog posts are always titled with a question similar to my first post: [How much U.S. currency is currently in circulation?](http://hackeconomics.com/How-much-U.S.-currency-is-currently-in-circulation/). Some of the questions will be a bit sexier than others but they will all share a similar format. At the top there's a version number. The answers to the questions evolve and therefore each "major" or "minor" iteration has a version number. Each question can also be found "in context" in the [questions](http://hackeconomics.com/questions/) page. 
