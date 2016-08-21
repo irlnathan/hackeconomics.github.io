@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are the tools that central banks use to influence economies of the world? 
+title: What are the tools that central banks use to influence economies around the world? 
 ---
 
 **_v1.0_**
