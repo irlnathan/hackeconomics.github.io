@@ -11,7 +11,7 @@ Welcome, let's have some fun exploring economics one question at a time. This po
 
 The site is organized into three sections: blog, questions, and about. The blog posts are always titled with a question similar to my first post: [How much U.S. currency is currently in circulation?](http://hackeconomics.com/How-much-U.S.-currency-is-currently-in-circulation/). Each post or question will have a version. Therefore, posts will updated as we go with new information. If you need to understand some other concept or definition within the answer I'll "point" to it at the top in the prerequsites section.  
 
-Some of the questions will be a bit sexier than others but they will all share a similar format. At the top there's a version number. The answers to the questions evolve and therefore each "major" or "minor" iteration has a version number. Each question can also be found "in context" in the [context](http://hackeconomics.com/context/) page. 
+Some of the questions will be a bit sexier than others but they will all share a similar format. At the top there's a version number. The answers to the questions evolve and therefore each "major" or "minor" iteration has a version number. Each question can also be found "in context" in the [context](http://hackeconomics.com/contexts/) page. 
 
 **Why "hack" in hackeconomics?**
 
