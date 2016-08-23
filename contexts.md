@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions to be answered...
-permalink: /questions/
+permalink: /contexts/
 ---
 
 ## Banks
