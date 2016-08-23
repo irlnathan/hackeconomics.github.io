@@ -9,6 +9,7 @@ permalink: /questions/
 - What are bank reserve requirements?
  
 ## The Economy
+- [What is credit?](http://hackeconomics.com/what-is-credit/)
 - [What is GDP?](http://hackeconomics.com/What-is-GDP/)
  
 ## The Federal Reserve
