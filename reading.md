@@ -17,4 +17,4 @@ Ranked in no particular order:
 - [zerohedge](http://www.zerohedge.com/)
 - [confessions of a supply side liberal](http://blog.supplysideliberal.com/)
 - [marginal revolution](http://marginalrevolution.com/)
-- [Econbrowser](http://econbrowser.com/)
+- [econbrowser](http://econbrowser.com/)
