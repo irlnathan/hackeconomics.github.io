@@ -16,3 +16,11 @@ Here's what Grant Williams says about Grant Williams:
 He's definitely an advocate for gold but that's not the point of why I'm including the video. In fact, my aim is not to push ANY particular investment strategy. The video is both informative and entertaining and I'm using it as a starting point for explaining some important concepts. It's also a great example of a video that assumes a buch of knowledge. Now I think Mr. Williams goes to great lengths to clearly outline his points, however, he didn't want to make the video multiple hours long. That's where I come in. Not really, but I am going to try and break down some of the questions whose answers are necessary if you want to understand the concepts in the video.
 
 So here's a list of questions to be answered that originate from the video.
+
+- What is US GDP?
+- What is US total credit instruments [TCMDO]?
+- What is a recession?
+- What is debt to GDP?
+- What is CAGR of Global Debt Outstanding by Type?
+- What is Emerging Market Non-Financial Corporate Debt?
+- 
