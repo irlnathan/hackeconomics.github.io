@@ -17,7 +17,7 @@ He's definitely an advocate for gold but that's not the point of why I'm includi
 
 So here's a list of questions to be answered that originate from the video.
 
-- What is US GDP?
+- [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
 - What is US total credit instruments [TCMDO]?
 - What is a recession?
 - What is debt to GDP?
