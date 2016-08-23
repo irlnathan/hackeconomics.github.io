@@ -9,7 +9,7 @@ permalink: /questions/
 - What are bank reserve requirements?
  
 ## The Economy
-- [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
+- [What is GDP?](http://hackeconomics.com/What-is-GDP/)
  
 ## The Federal Reserve
 - Is the federal reserve a public or private institution?
