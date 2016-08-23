@@ -14,7 +14,7 @@ Ranked in no particular order:
 - [money and banking](http://www.moneyandbanking.com/)
 - [the big picture](http://ritholtz.com/)
 - [roger farmer](http://www.rogerfarmer.com/rogerfarmerblog)
-- [zerohedge]((http://www.zerohedge.com/)
+- [zerohedge](http://www.zerohedge.com/)
 - [confessions of a supply side liberal](http://blog.supplysideliberal.com/)
 - [marginal revolution](http://marginalrevolution.com/)
 - [Econbrowser](http://econbrowser.com/)
