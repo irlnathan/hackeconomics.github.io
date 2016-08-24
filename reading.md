@@ -4,6 +4,8 @@ title: Blogs I read...
 permalink: /reading/
 ---
 
+**_v1.1_**
+
 Ranked in no particular order:
 
 - [econacademics](https://econacademics.org/)
@@ -17,4 +19,5 @@ Ranked in no particular order:
 - [zerohedge](http://www.zerohedge.com/)
 - [confessions of a supply side liberal](http://blog.supplysideliberal.com/)
 - [marginal revolution](http://marginalrevolution.com/)
+- [new authorian economics](http://newarthurianeconomics.blogspot.com/)
 - [econbrowser](http://econbrowser.com/)
