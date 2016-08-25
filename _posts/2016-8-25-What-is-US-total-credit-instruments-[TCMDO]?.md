@@ -5,7 +5,7 @@ title: What is US total credit instruments [TCMDO]?
 
 **_v1.0_**
 
-The short first answer is that the number represents all of the [credit](http://hackeconomics.com/what-is-credit/) issued to consumers, corporations, and the government. There is a way to look at the specifics which I'm going to do below, however, this has "Through the looking glass" feel to its complexity. So here goes. The FRED series _Total Credit Market Debt Owed_ has a series number of FL894104005. The series which make up the sum of this series can be found [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=). To compute it we need to add up:
+The short answer is that the number represents all of the [credit](http://hackeconomics.com/what-is-credit/) issued to consumers, corporations, and the government. There is a way to look at the specifics which I'm going to do below, however, this has "Through the looking glass" feel to its complexity. So here goes. The FRED series _Total Credit Market Debt Owed_ has a series number of FL894104005. The series which make up the sum of this series can be found [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=). To compute it we need to add up:
 
 ```
 = + FL144104005 + FL154104005 + FL214104005 + FL314104005 + FL413065005 + FL264104005 + FL404104005 + FL614104005 + FL704104005 + FL674122005 + FL644104005 + FL543169373 + FL664104005 + FL734104005 + FL504104005 + FL513169333
