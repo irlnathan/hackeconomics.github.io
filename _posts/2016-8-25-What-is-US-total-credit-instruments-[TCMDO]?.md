@@ -32,5 +32,5 @@ The description of each series:
 + FL513169333.Q	Property-casualty insurance companies; FHLB advances; liability
 ```
 
-Each of these series is made up of other series which you can peruse at your leisure.
+Each of these series is made up of other series which you can peruse at your leisure [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=).
 
