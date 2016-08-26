@@ -3,7 +3,7 @@ layout: post
 title: What is credit? 
 ---
 
-**_v1.0_**
+**_v1.1_**
 
 One form of credit is where the borrower receives something of value for a promise to repay the debt at a future date, usally with interest. There are many examples of credit:
 
@@ -11,6 +11,7 @@ One form of credit is where the borrower receives something of value for a promi
 
 - Revolving
   - credit cards
+  - other
 - Non-Revolving
   - auto loans
   - student
