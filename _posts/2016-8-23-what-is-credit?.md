@@ -9,9 +9,12 @@ One form of credit is where the borrower receives something of value for a promi
 
 ## Consumer Credit
 
-- credit cards
+- Revolving
+  - credit cards
+- Non-Revolving
+  - auto loans
+  - student
 - mortgages
-- auto loans
 
 ## Corporate Credit
 
