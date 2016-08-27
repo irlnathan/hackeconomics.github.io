@@ -13,7 +13,7 @@ A portion of the revolving credit is credit card credits which can be found in t
 
 
 The remaininder includes overdraft plans on checking accounts and other loans without a fixed repayment schedule according to:
-![2016-08-26-L.222.jpg](https://raw.githubusercontent.com/hackeconomics/hackeconomics.github.io/master/images/2016-08-26-L.222.jpg)
+![2016-08-26-L.222.jpg](https://raw.githubusercontent.com/hackeconomics/hackeconomics.github.io/master/images/2016-08-26-L-222.jpg)
 
 
 
