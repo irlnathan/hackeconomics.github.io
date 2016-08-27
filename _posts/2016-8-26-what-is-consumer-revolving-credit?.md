@@ -9,11 +9,9 @@ Revolving credit is a type of credit where the maximum amount that can be borrow
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6Pbv&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-A portion of the revolving credit is credit card credits which can be found in this series:
+A portion of the revolving credit is credit cards which can be found in this series:
 
+<iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6Per&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-The remaininder includes overdraft plans on checking accounts and other loans without a fixed repayment schedule according to:
+The remaininder includes overdraft plans on checking accounts and other loans without a fixed repayment schedule according to the Fed's [Z.1](https://www.federalreserve.gov/releases/z1/current/z1.pdf) report, specifically:
 ![2016-08-26-L.222.jpg](https://raw.githubusercontent.com/hackeconomics/hackeconomics.github.io/master/images/2016-08-26-L-222.jpg)
-
-
-
