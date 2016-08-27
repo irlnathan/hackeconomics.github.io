@@ -4,13 +4,18 @@ title: Questions in context...
 permalink: /contexts/
 ---
 
+**_v1.1_**
+
 ## Banks
 - [What is interest?](http://hackeconomics.com/what-is-interest/)
 - What limits a bank to make a loan?
 - What are bank reserve requirements?
  
-## The Economy
+## Credit
 - [What is credit?](http://hackeconomics.com/what-is-credit/)
+- [What is consumer revolving credit?](http://hackeconomics.com/what-is-consumer-revolving-credit/)
+
+## The Economy
 - [What is GDP?](http://hackeconomics.com/What-is-GDP/)
 - [What is US total credit instruments [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
  
