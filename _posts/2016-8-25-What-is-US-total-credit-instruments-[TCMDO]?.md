@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the total of US credit instruments [TCMDO]?
+title: What is the total amount of credit instruments in the US [TCMDO]?
 ---
 
 **_v1.1_**
