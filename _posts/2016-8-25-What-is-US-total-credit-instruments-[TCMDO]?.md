@@ -17,6 +17,7 @@ That is, if you add up all of the debt incurred in the US for a particular point
 
 After an email to the folks over at [FRED](http://hackeconomics.com/what-is-FRED/), unfortunately not all series in the flow of funds accounts are available in FRED. So, how about going into the Flow of funds account site itself? Well, it turns out that in 2015, the FR decided to discontinue the following table:
 
+```
 Page: 6  June 11, 2015											
 											
 F.1 Total Credit Market Borrowing and Lending 1											
@@ -76,7 +77,7 @@ Security brokers and dealers; credit market instruments; asset	-192.1	32.2	5.7	8
 Holding companies; credit market instruments;; asset	-16	22.1	3.1	-50.1	56.2	-11.1	-25.4	-8.1	36.3	-47	-32
 Funding corporations; credit market instruments; asset	-311.3	38.7	-63.9	-46.4	-0.3	-0.2	169.9	5.1	-56.1	-119.6	-10
 Rest of the world; credit market instruments; asset	116.5	619.2	237.4	443.5	551.1	536.9	504.1	397.8	544.1	701.7	359.7
-
+```
 
 
 The description of each series:
