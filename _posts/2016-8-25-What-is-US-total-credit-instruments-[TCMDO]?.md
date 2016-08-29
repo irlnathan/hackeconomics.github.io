@@ -23,14 +23,14 @@ Page: 6  June 11, 2015
 F.1 Total Credit Market Borrowing and Lending 1											
 Billions of dollars; quarterly figures are seasonally adjusted annual rates                                                                                                                                                     											
 											
-							2009	2010	2011	2012	2013	2014	2014	2014	2014	2014	2015
-Description							Q1	Q2	Q3	Q4	Q1
-All sectors; credit market instruments; liability	-338.7	652.6	1113.2	1592.3	1953.1	2150.7	1547	2168	2318.8	2569.2	1130.3
-Domestic nonfinancial sectors; credit market instruments; liability	1102.4	1405.4	1281.8	1823	1470.3	1723	1680	1399.4	1798.6	2013.9	1172.6
+										2009	2010	2011	2012	2013	2014	2014	2014	2014	2014	2015	Q1	Q2	Q3	Q4	Q1
+Description							
+All sectors; credit market instruments; liability				-338.7	652.6	1113.2	1592.3	1953.1	2150.7	1547	2168	2318.8	2569.2	1130.3
+Domestic nonfinancial sectors; credit market instruments; liability		1102.4	1405.4	1281.8	1823	1470.3	1723	1680	1399.4	1798.6	2013.9	1172.6
 Households and nonprofit organizations; credit market instruments; liability	1.3	-154	-31.5	199.5	203	386.4	298.6	484.2	389.7	373.1	292.1
-Nonfinancial corporate business; credit market instruments; liability	-358.7	-70.9	294.9	362.6	428.1	463.4	605.7	325.3	399.7	522.9	542
+Nonfinancial corporate business; credit market instruments; liability		-358.7	-70.9	294.9	362.6	428.1	463.4	605.7	325.3	399.7	522.9	542
 Nonfinancial noncorporate business; credit market instruments; liability	-97.1	-19.4	3.2	126	119	219.7	73.4	239.7	179.9	385.9	252.2
-Federal government; credit market instruments; liability	1443.9	1580.2	1067.9	1140.2	759.1	667.1	741	314.4	913.1	700	-53.8
+Federal government; credit market instruments; liability			1443.9	1580.2	1067.9	1140.2	759.1	667.1	741	314.4	913.1	700	-53.8
 State and local governments, excluding employee retirement funds; credit market instruments; liability	113	69.5	-52.7	-5.3	-38.9	-13.7	-38.8	35.7	-83.7	32.2	140.2
 Financial business; credit market instruments; liability	-1663.4	-901.8	-341.4	-419.3	213.9	271.7	-300.4	323.8	466.2	597.2	-340.7
 U.S.-chartered depository institutions; credit market instruments; liability	-292.2	-217.6	-50.5	-110.8	-33.5	35.1	-25.8	106.3	35.8	24	-136.2
