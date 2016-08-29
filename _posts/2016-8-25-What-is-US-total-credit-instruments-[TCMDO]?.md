@@ -23,7 +23,7 @@ Page: 6  June 11, 2015
 F.1 Total Credit Market Borrowing and Lending 1											
 Billions of dollars; quarterly figures are seasonally adjusted annual rates                                                                                                                                                     											
 											
-	2009	2010	2011	2012	2013	2014	2014	2014	2014	2014	2015
+							2009	2010	2011	2012	2013	2014	2014	2014	2014	2014	2015
 Description							Q1	Q2	Q3	Q4	Q1
 All sectors; credit market instruments; liability	-338.7	652.6	1113.2	1592.3	1953.1	2150.7	1547	2168	2318.8	2569.2	1130.3
 Domestic nonfinancial sectors; credit market instruments; liability	1102.4	1405.4	1281.8	1823	1470.3	1723	1680	1399.4	1798.6	2013.9	1172.6
