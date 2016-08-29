@@ -13,11 +13,11 @@ permalink: /contexts/
  
 ## Credit
 - [What is credit?](http://hackeconomics.com/what-is-credit/)
+- [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
 - [What is consumer revolving credit?](http://hackeconomics.com/what-is-consumer-revolving-credit/)
 
 ## The Economy
 - [What is GDP?](http://hackeconomics.com/What-is-GDP/)
-- [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
  
 ## The Federal Reserve
 - Is the federal reserve a public or private institution?
