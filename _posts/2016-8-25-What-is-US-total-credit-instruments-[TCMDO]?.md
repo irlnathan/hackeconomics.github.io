@@ -84,32 +84,19 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Series code</th>
+    <th>Description</th>
+    <th>Series id</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>FL894104005</td>
+    <td>TCMDO</td>
+    <td>All Sectors; Debt Securities and Loans; Liability, Level</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>FL894104005</td>
+    <td>TCMDO</td>
+    <td>All Sectors; Debt Securities and Loans; Liability, Level</td>
   </tr>
 </table>
 
