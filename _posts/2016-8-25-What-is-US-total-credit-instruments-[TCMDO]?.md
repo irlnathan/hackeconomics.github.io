@@ -101,7 +101,7 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
   </tr>
   <tr>
     <td class="tg-yw4l">FL144104005</td>
-    <td class="tg-yw4l">N/A</a> </td>
+    <td class="tg-yw4l">N/A</td>
     <td class="tg-yw4l">Nonfinancial business; debt securities and loans; liability</td>
   </tr>
   <tr>
@@ -119,6 +119,19 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
     <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/FGTCMDODNS">FGTCMDODNS</a></td>
     <td class="tg-yw4l">Federal government; debt securities and loans; liability</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l"> FL413065005</td>
+    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/FGTCMDODNS">FGTCMDODNS</a></td>
+    <td class="tg-yw4l">Agency-and GSE-backed mortgage pools; total mortgages; asset</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"> FL264104005</td>
+    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/WCMITCMFODNS">WCMITCMFODNS</a></td>
+    <td class="tg-yw4l">Rest of the world; debt securities and loans; liability</td>
+  </tr>
+  
+  
+  
   
   
   
