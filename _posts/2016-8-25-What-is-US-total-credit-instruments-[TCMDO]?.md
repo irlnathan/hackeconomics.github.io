@@ -90,8 +90,8 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
 <table class="tg">
   <tr>
      <th class="tg-yw4l">Series code</th>
-     <th class="tg-yw4l">Description</th>
      <th class="tg-yw4l">Series id</th>
+     <th class="tg-yw4l">Description</th>
   </tr>
   <tr>
     <td class="tg-yw4l">FL894104005</td>
