@@ -99,16 +99,11 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
     <td class="tg-yw4l">All Sectors; Debt Securities and Loans; Liability, Level</td>
   </tr>
   <tr>
-    <td>FL894104005</td>
-    <td>TCMDO</td>
-    <td>All Sectors; Debt Securities and Loans; Liability, Level</td>
+    <td class="tg-yw4l">FL154104005</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Households and nonprofit organizations; debt securities and loans; liability</td>
   </tr>
 </table>
-
-
-FL894104005 All sectors; debt securities and loans; liability
-
-FL154104005 Households and nonprofit organizations; debt securities and loans; liability
 
 FL144104005 Nonfinancial business; debt securities and loans; liability
 
