@@ -81,17 +81,22 @@ Funding corporations; credit market instruments; asset							-311.3	38.7	-63.9	-
 Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.5	551.1	536.9	504.1	397.8	544.1	701.7	359.7
 ```
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
   <tr>
-    <th>Series code</th>
-    <th>Description</th>
-    <th>Series id</th>
+     <th class="tg-yw4l">Series code</th>
+     <th class="tg-yw4l">Description</th>
+     <th class="tg-yw4l">Series id</th>
   </tr>
   <tr>
-    <td>FL894104005</td>
-    <td>TCMDO</td>
-    <td>All Sectors; Debt Securities and Loans; Liability, Level</td>
+    <td class="tg-yw4l">FL894104005</td>
+    <td class="tg-yw4l">TCMDO</td>
+    <td class="tg-yw4l">All Sectors; Debt Securities and Loans; Liability, Level</td>
   </tr>
   <tr>
     <td>FL894104005</td>
