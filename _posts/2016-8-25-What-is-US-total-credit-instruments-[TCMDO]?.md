@@ -82,11 +82,36 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
 ```
 
 
-|  	|  	|  	|  	|  	|
-|  ---	|  ---	|  ---	|  ---	|  ---	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 FL894104005 All sectors; debt securities and loans; liability
