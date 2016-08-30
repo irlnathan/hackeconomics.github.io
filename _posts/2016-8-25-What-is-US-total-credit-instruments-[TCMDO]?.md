@@ -3,7 +3,7 @@ layout: post
 title: What is the total amount of credit instruments in the US [TCMDO]?
 ---
 
-**_v1.2_**
+**_v1.3_**
 
 The short answer is that the number represents all of the [credit](http://hackeconomics.com/what-is-credit/) issued to consumers, corporations, and the government and is represented below:
 
@@ -81,9 +81,11 @@ Funding corporations; credit market instruments; asset							-311.3	38.7	-63.9	-
 Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.5	551.1	536.9	504.1	397.8	544.1	701.7	359.7
 ```
 
+
 |  Series Code  | Description | Series id |
 | ------------- | ------------- | ------------- |
-| FL894104005  | All sectors; debt securities and loans; liability  |  TCMDO  |
+| FL894104005   | All sectors; debt securities and loans; liability  |  TCMDO  |
+
 
 FL894104005 All sectors; debt securities and loans; liability
 
