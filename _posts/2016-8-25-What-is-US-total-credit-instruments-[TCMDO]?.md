@@ -95,7 +95,7 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
   </tr>
   <tr>
     <td class="tg-yw4l">FL894104005</td>
-    <td class="tg-yw4l">[TCMDO](https://fred.stlouisfed.org/series/TCMDO)</td>
+    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/TCMDO">TCMDO</a></td>
     <td class="tg-yw4l">All Sectors; Debt Securities and Loans; Liability, Level</td>
   </tr>
   <tr>
