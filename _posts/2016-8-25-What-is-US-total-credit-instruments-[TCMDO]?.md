@@ -104,13 +104,11 @@ Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.
     <td class="tg-yw4l">Households and nonprofit organizations; debt securities and loans; liability</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">FL144104005</td>
+    <td class="tg-yw4l">FL104104005</td>
     <td class="tg-yw4l">N/A</td>
-    <td class="tg-yw4l">Nonfinancial business; debt securities and loans; liability</td>
+    <td class="tg-yw4l">Nonfinancial corporate business; debt securities and loans; liability</td>
   </tr>
 </table>
-
-FL104104005 Nonfinancial corporate business; debt securities and loans; liability
 
 FL114123005 Nonfinancial noncorporate business; loans; liability (Financial Accounts data set)
 
