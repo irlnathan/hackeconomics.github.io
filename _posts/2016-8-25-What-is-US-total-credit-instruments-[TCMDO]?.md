@@ -9,7 +9,10 @@ The short answer is that the number represents all of the [credit](http://hackec
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6RPZ&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-That is, if you add up all of the debt incurred in the US for a particular point in time, you get this number. There is a way to look at (some) of the details of what makes up this number, however, this has a "through the looking glass" feel to it due to the rabbit holes you can go down looking at all of its components. 
+That is, if you add up all of the debt incurred in the US for a particular point in time, you get this number. 
+
+
+**I highly recommend stopping here. The remainder is really for me to document some inside baseball stuff with the FED.** There is a way to look at (some) of the details of what makes up this number, however, this has a "through the looking glass" feel to it due to the rabbit holes you can go down looking at all of its components. 
 
 The [FRED](https://fred.stlouisfed.org/) series _Total Credit Market Debt Owed_ (shown in the chart above) has a series id of *TCMDO*  and a series code of FL894104005 in the [Flow of Funds account](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/). You can also enter that series code [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=) which returns the other series codes whose totals were used to calculate this number:
 
