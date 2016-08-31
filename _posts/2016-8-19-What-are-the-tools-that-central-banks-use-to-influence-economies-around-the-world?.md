@@ -20,8 +20,8 @@ So here's a list of questions to be answered that originate from the video.
 - [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
 - What is debt?
+- What is debt to GDP ration?
 - What is a recession?
-- What is debt to GDP?
 - What is CAGR of Global Debt Outstanding by Type?
 - What is Emerging Market Non-Financial Corporate Debt?
 - 
