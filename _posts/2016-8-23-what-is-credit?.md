@@ -5,7 +5,7 @@ title: What is credit?
 
 **_v1.1_**
 
-One form of credit is where the borrower receives something of value for a promise to repay the debt at a future date, usally with interest. There are many examples of credit:
+One form of credit is where the borrower receives something of value for a promise to repay the [debt](http://hackeconomics.com/what-is-debt/) at a future date, usally with interest. There are many examples of credit:
 
 ## Consumer Credit
 
