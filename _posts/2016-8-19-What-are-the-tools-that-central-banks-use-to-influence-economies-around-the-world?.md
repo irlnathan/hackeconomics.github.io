@@ -3,7 +3,7 @@ layout: post
 title: What are the tools that central banks use to influence economies around the world? 
 ---
 
-**_v1.0_**
+**_v1.1_**
 
 Okay, I'll admit this is a huge question. The reason I chose it was because of a video I ran across yesterday by Grant Williams:
 
@@ -19,6 +19,7 @@ So here's a list of questions to be answered that originate from the video.
 
 - [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
+- What is debt?
 - What is a recession?
 - What is debt to GDP?
 - What is CAGR of Global Debt Outstanding by Type?
