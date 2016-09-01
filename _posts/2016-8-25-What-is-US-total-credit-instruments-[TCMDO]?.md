@@ -3,19 +3,20 @@ layout: post
 title: What is the total amount of credit instruments in the US [TCMDO]?
 ---
 
-**_v1.3_**
+**_v1.4_**
 
 The short answer is that the number represents all of the [credit](http://hackeconomics.com/what-is-credit/) issued to consumers, corporations, and the government and is represented below:
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6RPZ&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-That is, if you add up all of the debt incurred in the US for a particular point in time, you get this number. 
-
+That is, if you add up all of the debt incurred in the US for a particular point in time, you get this number. In future questions I'll break it down into its component parts.
 
 **I highly recommend stopping here. The remainder is really for me to document some inside baseball stuff with the FED.** 
 <hr>
 
-There is a way to look at (some) of the details of what makes up this number, however, this has a "through the looking glass" feel to it due to the rabbit holes you can go down looking at all of its components. 
+There is a way to look at (some) of the details of what makes up this total, however, it has a "through the looking glass" feel to it due to the rabbit holes you can go down looking at all of its components. 
+
+There are two general sources for this information. The first is [FRED](https://fred.stlouisfed.org/) and the second is [Flow of Funds Account](https://www.federalreserve.gov/releases/z1/current/) also know as Z.1. My take on each can be found [here](http://hackeconomics.com/what-is-FRED/) and [here](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/).
 
 The [FRED](https://fred.stlouisfed.org/) series _Total Credit Market Debt Owed_ (shown in the chart above) has a series id of *TCMDO*  and a series code of FL894104005 in the [Flow of Funds account](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/). You can also enter that series code [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=) which returns the other series codes whose totals were used to calculate this number:
 
@@ -23,7 +24,9 @@ The [FRED](https://fred.stlouisfed.org/) series _Total Credit Market Debt Owed_ 
 = + FL144104005 + FL154104005 + FL214104005 + FL314104005 + FL413065005 + FL264104005 + FL404104005 + FL614104005 + FL704104005 + FL674122005 + FL644104005 + FL543169373 + FL664104005 + FL734104005 + FL504104005 + FL513169333
 ```
 
-After an email to the folks over at [FRED](http://hackeconomics.com/what-is-FRED/), unfortunately not all series in the flow of funds accounts are available in FRED. So, how about going into the Flow of funds accounts themselves? Well, it turns out that in 2015, the FR decided to [discontinue](https://www.federalreserve.gov/releases/z1/z1_technical_qa.htm) the following table in the flow of funds accounts:
+After an email to the folks over at [FRED](http://hackeconomics.com/what-is-FRED/), unfortunately not all series in the flow of funds accounts are available in FRED. So, how about going into the Flow of funds accounts for the value? You can do that by continuing to drill down into a series until there is no longer a calculated number.
+
+But there's still a twist. It turns out that in 2015, the FR decided to [discontinue](https://www.federalreserve.gov/releases/z1/z1_technical_qa.htm) the following table in the flow of funds accounts:
 
 ```
 Page: 6  June 11, 2015											
@@ -86,6 +89,8 @@ Holding companies; credit market instruments;; asset							-16	22.1	3.1	-50.1	56
 Funding corporations; credit market instruments; asset							-311.3	38.7	-63.9	-46.4	-0.3	-0.2	169.9	5.1	-56.1	-119.6	-10
 Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.5	551.1	536.9	504.1	397.8	544.1	701.7	359.7
 ```
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
