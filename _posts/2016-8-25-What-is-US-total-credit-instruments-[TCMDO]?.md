@@ -3,7 +3,7 @@ layout: post
 title: What is the total amount of credit instruments in the US [TCMDO]?
 ---
 
-**_v1.4_**
+**_v1.5_**
 
 The short answer is that the number represents all of the [credit](http://hackeconomics.com/what-is-credit/) issued to consumers, corporations, and the government and is represented below:
 
@@ -14,19 +14,36 @@ That is, if you add up all of the debt incurred in the US for a particular point
 **I highly recommend stopping here. The remainder is really for me to document some inside baseball stuff with the FED.** 
 <hr>
 
-There is a way to look at (some) of the details of what makes up this total, however, it has a "through the looking glass" feel to it due to the rabbit holes you can go down looking at all of its components. 
+There is a way to look at all of the details of what makes up this total, however, as you drill down the amount of data can get overwhelming fast.  
 
-There are two general sources for this information. The first is [FRED](https://fred.stlouisfed.org/) and the second is [Flow of Funds Account](https://www.federalreserve.gov/releases/z1/current/) also know as Z.1. My take on each can be found [here](http://hackeconomics.com/what-is-FRED/) and [here](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/).
+There are two general sources for drilling down into the details of the total. The first is [FRED](https://fred.stlouisfed.org/) and the second is [Flow of Funds Account](https://www.federalreserve.gov/releases/z1/current/) also know as Z.1. My take on each can be found [here](http://hackeconomics.com/what-is-FRED/) and [here](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/).
 
-The [FRED](https://fred.stlouisfed.org/) series _Total Credit Market Debt Owed_ (shown in the chart above) has a series id of *TCMDO*  and a series code of FL894104005 in the [Flow of Funds account](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/). You can also enter that series code [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=) which returns the other series codes whose totals were used to calculate this number:
+The [FRED](https://fred.stlouisfed.org/) series _Total Credit Market Debt Owed_ (shown in the chart above) has a series id of *TCMDO*  and a series code of FL894104005 in the [Flow of Funds account](http://hackeconomics.com/what-is-the-US-flow-of-funds-account/). The Flow of Funds account has a dedicated site that allows you to enter that series code (e.g. FL894104005) [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=) and returns the other series codes whose totals were used to calculate the number:
 
 ```
-= + FL144104005 + FL154104005 + FL214104005 + FL314104005 + FL413065005 + FL264104005 + FL404104005 + FL614104005 + FL704104005 + FL674122005 + FL644104005 + FL543169373 + FL664104005 + FL734104005 + FL504104005 + FL513169333
++ FL144104005.Q	Nonfinancial business; debt securities and loans; liability
++ FL154104005.Q	Households and nonprofit organizations; debt securities and loans; liability
++ FL214104005.Q	State and local governments, excluding employee retirement funds; debt securities and loans; liability
++ FL314104005.Q	Federal government; debt securities and loans; liability
++ FL413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset
++ FL264104005.Q	Rest of the world; debt securities and loans; liability
++ FL404104005.Q	Government-sponsored enterprises; debt securities and loans; liability
++ FL614104005.Q	Finance companies; debt securities and loans; liability
++ FL704104005.Q	Private depository institutions; debt securities and loans; liability
++ FL674122005.Q	Issuers of asset-backed securities; debt securities; liability
++ FL644104005.Q	Real estate investment trusts; debt securities and loans; liability
++ FL543169373.Q	Life insurance companies, general accounts; FHLB advances; liability
++ FL664104005.Q	Security brokers and dealers; debt securities and loans; liability
++ FL734104005.Q	Holding companies; debt securities and loans; liability
++ FL504104005.Q	Funding corporations; debt securities and loans; liability
++ FL513169333.Q	Property-casualty insurance companies; FHLB advances; liability
 ```
 
-After an email to the folks over at [FRED](http://hackeconomics.com/what-is-FRED/), unfortunately not all series in the flow of funds accounts are available in FRED. So, how about going into the Flow of funds accounts for the value? You can do that by continuing to drill down into a series until there is no longer a calculated number.
+This is where things get interesting. After an email to the very helpful folks over at [FRED](http://hackeconomics.com/what-is-FRED/),  not all series codes in the flow of funds accounts are available as series ids in FRED. The way to check this is to do a Google search on a series code (e.g FL144104005) to see if it shows up in FRED. Ironically, you can't do a similar search directly on the FRED site. If there's no FRED series ID available you can instead drill down into a specific series code in the Flow of Funds analyzer, however, in order to get to an actual value you must first drill down to a series that doesn't have a derived or calculated value. Huh? 
 
-But there's still a twist. It turns out that in 2015, the FR decided to [discontinue](https://www.federalreserve.gov/releases/z1/z1_technical_qa.htm) the following table in the flow of funds accounts:
+So let's take the first code as (e.g FL144104005) as an example. If you put that in the [series analyzer](http://www.federalreserve.gov/apps/fof/SearchResult.aspx?search=FL144104005&in=Table&by=All) you get another set of series that FL144104005 is derived from. The first of those components is FL104104005 so will select [it](http://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104104005&t=&bc=yxqUlFEkiY6hooY1TC9CkjavRt0IOgkW+WyQCgQsF1iJM2Wy9SUtCGCDhKE49e5LSlCyfu9SFG5ceS9l58XR0hId0cwNJy/h5KMnDttju0mu5+nfbQRZtGjeIOwQsXhg:FL144104005&suf=Q). And believe it or not we have yet another set of [series](http://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL104122005&t=&bc=yxqUlFEkiY6hooY1TC9CkjavRt0IOgkW%20WyQCgQsF1iJM2Wy9SUtCGCDhKE49e5LSlCyfu9SFG5ceS9l58XR0hId0cwNJy/h5KMnDttju0mu5%20nfbQRZtGjeIOwQsXhg:FL144104005,FL104104005&suf=Q). This set, however, has links to the actual values.  
+
+One other twist is it turns out that in 2015, the Federal Reserve decided to [discontinue](https://www.federalreserve.gov/releases/z1/z1_technical_qa.htm) the F.1 table in the flow of funds accounts:
 
 ```
 Page: 6  June 11, 2015											
@@ -90,178 +107,5 @@ Funding corporations; credit market instruments; asset							-311.3	38.7	-63.9	-
 Rest of the world; credit market instruments; asset							116.5	619.2	237.4	443.5	551.1	536.9	504.1	397.8	544.1	701.7	359.7
 ```
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-yw4l{vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-     <th class="tg-yw4l">FoF Series code</th>
-     <th class="tg-yw4l">FRED Series id</th>
-     <th class="tg-yw4l">Description</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FL144104005</td>
-    <td class="tg-yw4l">N/A</td>
-    <td class="tg-yw4l">Nonfinancial business; debt securities and loans; liability</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FL154104005</td>
-    <td class="tg-yw4l">N/A</td>
-    <td class="tg-yw4l">Households and nonprofit organizations; debt securities and loans; liability</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FL214104005</td>
-    <td class="tg-yw4l">N/A</td>
-    <td class="tg-yw4l">State and local governments, excluding employee retirement funds; debt securities and loans; liability</td>
-  </tr> 
-  <tr>
-    <td class="tg-yw4l">FL314104005</td>
-    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/FGTCMDODNS">FGTCMDODNS</a></td>
-    <td class="tg-yw4l">Federal government; debt securities and loans; liability</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"> FL413065005</td>
-    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/FGTCMDODNS">FGTCMDODNS</a></td>
-    <td class="tg-yw4l">Agency-and GSE-backed mortgage pools; total mortgages; asset</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"> FL264104005</td>
-    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/WCMITCMFODNS">WCMITCMFODNS</a></td>
-    <td class="tg-yw4l">Rest of the world; debt securities and loans; liability</td>
-  </tr>
-  
-  
-  
-  
-  
-  
-  <tr>
-    <td class="tg-yw4l">FL894104005</td>
-    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/TCMDO">TCMDO</a></td>
-    <td class="tg-yw4l">All Sectors; Debt Securities and Loans; Liability, Level</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FL114123005</td>
-    <td class="tg-yw4l"><a src="https://fred.stlouisfed.org/series/NNBLL">NNBLL]</a> </td>
-    <td class="tg-yw4l">Nonfinancial noncorporate business; loans; liability</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">FL364104005</td>
-    <td class="tg-yw4l">N/A</td>
-    <td class="tg-yw4l">General government; debt securities and loans; liability</td>
-  </tr>  
-</table>
-
-FL214104005 State and local governments, ex. employee retirement funds; debt securities and loans; liability
-
-FL314104005 Federal government; debt securities and loans; liability
-
-FL704104005 Private depository institutions; debt securities and loans; liability
-
-FL413065005 Agency-and GSE-backed mortgage pools; total mortgages; asset (Financial Accounts data set)
-
-FL404104005 Government-sponsored enterprises; debt securities and loans; liability
-
-FL614104005 Finance companies; debt securities and loans; liability
-
-FL543169373 Life insurance companies, general accounts; FHLB advances; liability (Financial Accounts data set)
-
-FL674122005 Issuers of asset-backed securities; debt securities; liability (Financial Accounts data set)
-
-FL644104005 Real estate investment trusts; debt securities and loans; liability
-
-FL664104005 Security brokers and dealers; debt securities and loans; liability
-
-FL734104005 Holding companies; debt securities and loans; liability
-
-FL504104005 Funding corporations; debt securities and loans; liability
-
-FL264104005 Rest of the world; debt securities and loans; liability
-
-Debt securities and loans; assets; by sector:
-
-FL384004005 Domestic nonfinancial sectors; debt securities and loans; asset
-
-FL154004005 Households and nonprofit organizations; debt securities and loans; asset
-
-FL144004005 Nonfinancial business; debt securities and loans; asset
-
-FL104004005 Nonfinancial corporate business; debt securities and loans; asset
-
-FL114004005 Nonfinancial noncorporate business; debt securities and loans; asset
-
-FL314004005 Federal government; debt securities and loans; asset
-
-FL214004005 State and local governments, excluding employee retirement funds; debt securities and loans; asset
-
-FL794004005 Domestic financial sectors; debt securities and loans; asset
-
-FL704004005 Private depository institutions; debt securities and loans; asset
-
-FL764004005 U.S.-chartered depository institutions; debt securities and loans; asset
-
-FL744004005 Banks in U.S.-affiliated areas; debt securities and loans; asset
-
-FL754004005 Foreign banking offices in the U.S.; debt securities and loans; asset
-
-FL474004005 Credit unions; debt securities and loans; asset
-
-FL584004005 Insurance companies and pension funds; debt securities and loans; asset
-
-FL634022005 Money market mutual funds; debt securities; asset (Financial Accounts data set)
-
-FL644004005 Real estate investment trusts; debt securities and loans; asset
-
-FL554022005 Closed-end funds; debt securities; asset (Financial Accounts data set)
-
-FL564022005 Exchange-traded funds; debt securities; asset (Financial Accounts data set)
-
-FL654004005 Mutual funds; debt securities and loans; asset
-
-FL674004005 Issuers of asset-backed securities; debt securities and loans; asset
-
-FL614004005 Finance companies; debt securities and loans; asset
-
-FL504004005 Funding corporations; debt securities and loans; asset
-
-FL734004005 Holding companies; debt securities and loans; asset
-
-FL664004005 Security brokers and dealers; debt securities and loans; asset
-
-FL714004005 Monetary authority; debt securities and loans; asset
-
-FL424004005 Government-sponsored enterprises and federally related mortgage pools; debt securities and loans; asset
-
-
-They replaced it with It's also confusing when the descriptions of the series change. But I'm just whining. So here's a table of the series code versus the FRED series where available. When a FRED series is not available you can always refer directly to the Flow of Funds report.
-
-
-
-The description of each series:
-
-```
-+ FL144104005.Q	Nonfinancial business; debt securities and loans; liability
-+ FL154104005.Q	Households and nonprofit organizations; debt securities and loans; liability
-+ FL214104005.Q	State and local governments, excluding employee retirement funds; debt securities and loans; liability
-+ FL314104005.Q	Federal government; debt securities and loans; liability
-+ FL413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset
-+ FL264104005.Q	Rest of the world; debt securities and loans; liability
-+ FL404104005.Q	Government-sponsored enterprises; debt securities and loans; liability
-+ FL614104005.Q	Finance companies; debt securities and loans; liability
-+ FL704104005.Q	Private depository institutions; debt securities and loans; liability
-+ FL674122005.Q	Issuers of asset-backed securities; debt securities; liability
-+ FL644104005.Q	Real estate investment trusts; debt securities and loans; liability
-+ FL543169373.Q	Life insurance companies, general accounts; FHLB advances; liability
-+ FL664104005.Q	Security brokers and dealers; debt securities and loans; liability
-+ FL734104005.Q	Holding companies; debt securities and loans; liability
-+ FL504104005.Q	Funding corporations; debt securities and loans; liability
-+ FL513169333.Q	Property-casualty insurance companies; FHLB advances; liability
-```
-
-Each of these series is made up of other series which you can peruse at your leisure [here](https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FL894104005&t=).
+But we can still use the series ID to find the values as shown above. 
 
