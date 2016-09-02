@@ -19,15 +19,18 @@ I've recreated his initial US GDP vs Total Credit Instruments chart in [FRED](),
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6VWx&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-Related Questions
+Other Related Questions
+
 - [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
 
+Grant states:
+> ...and the future path of the relationship between these two lines will determine what kind of resolution we experience.
+
+This **relationship** is also referred to as a [debt to GDP ratio](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/).
  
 
-
-So here's a list of questions to be answered that originate from the video.
-
+Other Related Questions
 
 - [What is debt?](http://hackeconomics.com/what-is-debt/)
 - What is debt to GDP ratio?
