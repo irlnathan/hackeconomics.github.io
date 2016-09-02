@@ -16,6 +16,7 @@ permalink: /contexts/
 - [What is debt?](http://hackeconomics.com/what-is-debt/)
 - [What is a debt-to-gdp ratio?](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/)
 - How do you determine whether a debt-to-gdp ratio is good or bad?
+- What is leverage?
 - What is delieveraging?
 - [What is government debt?](http://hackeconomics.com/what-is-government-debt/)
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
