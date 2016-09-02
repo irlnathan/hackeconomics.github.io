@@ -30,7 +30,12 @@ So in the video Grant says:
 
 One of the **relationships** he's referring to is the [debt to GDP ratio](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/). If we look at the latest ratio for this chart, that is, dividing GDP by TCMDO we get 348%. Is that good or bad? And better yet how do I determine what's a good or bad ratio? Considering the tone of the video I'm guessing 345% is not a good ratio of debt to gdp.
 
-The next question he addresses is what's changed with respect to the world's total debt level since the financial crisis. 
+The next question he addresses is what's changed with respect to the world's total debt level since the financial crisis. For this he looks to research by the McKinsey Global Institute in February of 2015 entitled [Debt and (not much) deleveraging](http://www.mckinsey.com/global-themes/employment-and-growth/debt-and-not-much-deleveraging). The conclusion is that instead of deleveraging the world has added an additional $57 Trillion dollars is debt since the crisis. Grant has cast this added debt similar to the ole [hair of the dog](https://en.wikipedia.org/wiki/Hair_of_the_dog) treatment.
+
+
+
+
+[What is deleveraging?]()
  
 
 Other Related Questions
