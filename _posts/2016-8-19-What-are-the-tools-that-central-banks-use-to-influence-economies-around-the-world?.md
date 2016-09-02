@@ -32,6 +32,8 @@ One of the **relationships** he's referring to is the [debt to GDP ratio](http:/
 
 The next question he addresses is what's changed with respect to the world's total debt level since the financial crisis. For this he looks to research by the McKinsey Global Institute in February of 2015 entitled [Debt and (not much) deleveraging](http://www.mckinsey.com/global-themes/employment-and-growth/debt-and-not-much-deleveraging). The conclusion is that instead of deleveraging the world has added an additional $57 Trillion dollars is debt since the crisis. Grant has cast this added debt similar to the ole [hair of the dog](https://en.wikipedia.org/wiki/Hair_of_the_dog) treatment.
 
+In the next slide he goes on to point out that report shows where the bulk of increased debt is coming from: the government. Household and Financial debt leverage has gone down while government leverage has gone up significantly.
+
 
 
 
