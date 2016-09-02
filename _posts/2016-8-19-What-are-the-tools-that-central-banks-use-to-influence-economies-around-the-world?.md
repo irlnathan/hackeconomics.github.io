@@ -28,7 +28,9 @@ So in the video Grant says:
 
 > ...and the future path of the relationship between these two lines will determine what kind of resolution we experience.
 
-One of the **relationships** he's referring to is the [debt to GDP ratio](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/). If we look at the latest ratio for this chart, that is, dividing GDP by TCMDO we get 348%. Is that good or bad? And better yet how do I determine what's a good or bad ratio?
+One of the **relationships** he's referring to is the [debt to GDP ratio](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/). If we look at the latest ratio for this chart, that is, dividing GDP by TCMDO we get 348%. Is that good or bad? And better yet how do I determine what's a good or bad ratio? Considering the tone of the video I'm guessing 345% is not a good ratio of debt to gdp.
+
+The next question he addresses is what's changed with respect to the world's total debt level since the financial crisis. 
  
 
 Other Related Questions
