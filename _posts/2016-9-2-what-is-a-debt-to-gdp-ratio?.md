@@ -9,7 +9,7 @@ The Debt to GDP ratio is typically used in comparing [government debt](http://ha
 
 <iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6W0i&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
 
-If I look at the most recent number for each series you get the following values:
+The most recent values for each series are:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -31,3 +31,5 @@ If I look at the most recent number for each series you get the following values
     <td class="tg-yw4l">18,437</td>
   </tr>
 </table>
+
+So the current ratio for Federal Debt: Total Public Debt to US GDP (e.g. 19,382/18,437) is 105%. The ratio can be useful in comparing different country's economies together or looking a trends of the ratio over time.
