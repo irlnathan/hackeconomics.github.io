@@ -25,7 +25,9 @@ Other Related Questions
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
 
 Grant states:
-> ...and the future path of the relationship between these two lines will determine what kind of resolution we experience.
+```
+ ...and the future path of the relationship between these two lines will determine what kind of resolution we experience.
+```
 
 This **relationship** is also referred to as a [debt to GDP ratio](http://hackeconomics.com/what-is-a-debt-to-gdp-ratio/).
  
