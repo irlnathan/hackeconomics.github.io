@@ -3,7 +3,7 @@ layout: post
 title: What are the tools that central banks use to influence economies around the world? 
 ---
 
-**_v1.1_**
+**_v1.2_**
 
 Okay, I'll admit this is a huge question. The reason I chose it was because of a video I ran across yesterday by Grant Williams:
 
@@ -15,10 +15,20 @@ Here's what Grant Williams says about Grant Williams:
 
 He's definitely an advocate for gold but that's not the point of why I'm including the video. In fact, my aim is not to push ANY particular investment strategy. The video is both informative and entertaining and I'm using it as a starting point for explaining some important concepts. It's also a great example of a video that assumes a buch of knowledge. Now I think Mr. Williams goes to great lengths to clearly outline his points, however, he didn't want to make the video multiple hours long. That's where I come in. Not really, but I am going to try and break down some of the questions whose answers are necessary if you want to understand the concepts in the video.
 
-So here's a list of questions to be answered that originate from the video.
+I've recreated his initial US GDP vs Total Credit Instruments chart in [FRED](), a chart he calls _the chart to rule them all_ below:
 
+<iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=6VWx&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true"></iframe>
+
+Related Questions
 - [What is US GDP?](http://hackeconomics.com/What-is-GDP/)
 - [What is the total amount of credit instruments in the US [TCMDO]?](http://hackeconomics.com/What-is-US-total-credit-instruments-TCMDO/)
+
+ 
+
+
+So here's a list of questions to be answered that originate from the video.
+
+
 - [What is debt?](http://hackeconomics.com/what-is-debt/)
 - What is debt to GDP ratio?
 - What is a recession?
