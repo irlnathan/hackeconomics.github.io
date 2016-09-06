@@ -8,7 +8,7 @@ permalink: /contexts/
 
 ## Banks
 - [What is interest?](http://hackeconomics.com/what-is-interest/)
-- What limits a banka ability to make a loan?
+- What limits a bank to make a loan?
 - What are bank reserve requirements?
  
 ## Credit & Debt
@@ -33,7 +33,9 @@ permalink: /contexts/
 - How are federal reserve participants selected?
 - What is the federal reserves balance sheet?
 - How does the federal reserve affect interest rates?
+- What is open market operations of the federal reserve?
 - [When did open market operations begin at the federal reserve?](http://hackeconomics.com/when-did-open-market-operations-begin-at-the-federal-reserve/)
+- What affect does open market operations have on short term interest rates?
 
 ## Money
 - What entity is in charge of printing US currency?
