@@ -33,6 +33,7 @@ permalink: /contexts/
 - How are federal reserve participants selected?
 - What is the federal reserves balance sheet?
 - How does the federal reserve affect interest rates?
+- [When did open market operations begin at the federal reserve?](http://hackeconomics.com/when-did-open-market-operations-begin-at-the-federal-reserve/)
 
 ## Money
 - What entity is in charge of printing US currency?
