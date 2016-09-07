@@ -34,8 +34,7 @@ The next question he addresses is what's changed with respect to the world's tot
 
 In the next slide he goes on to point out that report shows where the bulk of increased debt is coming from: the government. Household and Financial debt leverage has gone down while government leverage has gone up significantly.
 
-
-
+Next, he turns to China. Where he looks again at the measurement of debt to gdp. Recall that GDP is adding up all goods and services produced in a given year and debt is the amount of money borrowed by various participants in the market. 
 
 [What is deleveraging?]()
  
