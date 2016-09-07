@@ -10,6 +10,7 @@ permalink: /contexts/
 - [What is interest?](http://hackeconomics.com/what-is-interest/)
 - What limits a banks ability to make a loan?
 - What are bank reserve requirements?
+- What are a bank capital requirements?
  
 ## Credit & Debt
 - [What is credit?](http://hackeconomics.com/what-is-credit/)
