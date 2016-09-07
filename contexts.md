@@ -8,6 +8,7 @@ permalink: /contexts/
 
 ## Banks
 - [What is interest?](http://hackeconomics.com/what-is-interest/)
+- What is principal?
 - What limits a banks ability to make a loan?
 - What are bank reserve requirements?
 - What are a bank capital requirements?
